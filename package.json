@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onlyaviv/termestry.git"
+    "url": "git+https://github.com/avivkeller/termestry.git"
   },
   "keywords": [
     "Tapestry",
@@ -19,7 +19,7 @@
   "author": "Aviv Keller",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/onlyaviv/termestry/issues"
+    "url": "https://github.com/avivkeller/termestry/issues"
   },
   "homepage": "https://termestry.js.org"
 }
