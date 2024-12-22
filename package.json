@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RedYetiDev/termestry.git"
+    "url": "git+https://github.com/onlyaviv/termestry.git"
   },
   "keywords": [
     "Tapestry",
     "Canvas",
     "Paint"
   ],
-  "author": "RedYetiDev",
+  "author": "Aviv Keller",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/RedYetiDev/termestry/issues"
+    "url": "https://github.com/onlyaviv/termestry/issues"
   },
   "homepage": "https://termestry.js.org"
 }
