@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-    src="https://raw.githubusercontent.com/onlyaviv/termestry/gh-pages/logo.svg"
+    src="https://raw.githubusercontent.com/avivkeller/termestry/gh-pages/logo.svg"
     width="100"
 />
 
@@ -154,22 +154,4 @@ legs_subpath_2.lineTo(
 myCanvas.draw(); // Draw the canvas
 ```
 
-_For API usage, and more specific examples, refer to the [API](https://github.com/onlyaviv/termestry/blob/main/API.md)._
-
-## Project Status
-
-Termestry is currently in **alpha**. While the current API is stable, there may be breaking changes in the future, and more features will be added.
-
-To help with the development of Termestry, you can contribute to the project by submitting issues, pull requests, or shooting me an email at [hello@onlyaviv.com](mailto:hello@onlyaviv.com).
-
-## License
-
-Termestry is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. This means that you can use Termestry in any way you want, as long as you give credit to me, the original author ([OnlyAviv](https://onlyaviv.com)).
-
-> **What is "as long as you give credit to me"?**
->
-> Giving credit is showing that you used Termestry in your project. This can be done by linking to the [GitHub repository](https://github.com/onlyaviv/termestry), or by linking to the [npm package](https://www.npmjs.com/package/termestry).
->
-> **Can I use Termestry in a commercial project?**
->
-> Of course! You can use Termestry in any project, commercial or not, as long as you give credit to me.
+_For API usage, and more specific examples, refer to the [API](https://github.com/avivkeller/termestry/blob/main/API.md)._
